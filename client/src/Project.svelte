@@ -11,7 +11,7 @@
       cache: new InMemoryCache(),
     });
   
-    // Define your GraphQL query
+   
     const GET_PROJECTS = gql`
       query {
         projects {
